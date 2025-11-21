@@ -203,19 +203,3 @@ For licensing, collaboration, or partnership inquiries:
 - Open-source language communities for inspiration
 
 ---
-
-## FAQ
-
-**Q: Is C* open source?**  
-A: No. C* is a closed source project. Usage, copying, or modification is prohibited without explicit permission.
-
-**Q: Can I use C* in my own project or for educational purposes?**  
-A: Please contact the author to discuss licensing or special use.
-
-**Q: Will C* ever be open-sourced?**  
-A: There are currently no plans, but future licensing options may be considered.
-
-**Q: Is there documentation or a language reference?**  
-A: This README and `DESCRIPTION.md` provide an overview. More detailed documentation may be available upon request.
-
----
