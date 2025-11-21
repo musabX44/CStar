@@ -3,8 +3,6 @@
 Version - 0.0.1
 
 C* is a minimal, extensible scripting language inspired by the syntax and philosophy of C and HolyC. Designed for learning, rapid prototyping, and language tooling, C* aims to provide a simple, approachable, and modifiable language core suitable for education, systems experimentation, and personal projects.  
-**This project is closed source. All rights reserved.**
-
 ---
 
 ## Table of Contents
@@ -32,9 +30,6 @@ C* is a lightweight scripting language reminiscent of classic C, but with a focu
 - Designed with extensibility in mind: Intended as a foundation for adding new features, experimenting with language design, or building larger tools.
 - Educational: Great for compiler and interpreter enthusiasts, or as a teaching aid.
 
-> **Note:**  
-> C* is currently a closed-source project. If you are interested in licensing, partnerships, or collaboration, please see [Contact](#contact).
-
 ---
 
 ## Features
@@ -49,7 +44,6 @@ C* is a lightweight scripting language reminiscent of classic C, but with a focu
 - **Single File Implementation:** Easy to review, modify, or embed.
 - **Extensibility:** Core code is written to be simple to fork and extend.
 - **Error Reporting:** Basic error messages for syntax and runtime issues.
-- **Closed Source:** All rights reserved. Not open source.
 
 ---
 
@@ -107,19 +101,6 @@ int add(int x, int y) {
     return x + y;
 }
 ```
-
----
-
-## Usage
-
-> **Note:**  
-> As C* is a closed source project, binaries or source code are not publicly available. If you are interested in accessing the language for evaluation, licensing, or educational use, please contact the author.
-
-### Planned Usage (subject to licensing):
-
-- Download or clone the repository (with permission).
-- Compile or run the provided interpreter.
-- Write your C* scripts and execute them.
 
 ---
 
@@ -183,8 +164,6 @@ out.display(fact(5));
 
 ## License
 
-This project is **closed source**.  
-All rights reserved.  
 See [LICENSE](./LICENSE) for details.
 
 ---
